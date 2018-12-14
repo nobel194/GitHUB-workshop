@@ -1,1 +1,2 @@
-Hello to the participants of Git Workshop
+Hello to the participants of Git Workshop.
+Hello from @1BA4
