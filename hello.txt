@@ -1,1 +1,3 @@
 Hello to the participants of Git Workshop
+
+WE got a proper marker 
